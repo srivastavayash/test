@@ -1,5 +1,0 @@
-{{#user}}
-Name:Yash Srivastava
-Skills: HTML,CSS,JAVASCRIPT,REACT.JS,FIREBASE,FIGMA
-Email:srivastavayash017@gmail.com
-{{/user}}
